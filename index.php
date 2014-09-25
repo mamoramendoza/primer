@@ -3,7 +3,7 @@
 <html>
    <head>
       <meta charset="utf-8"/>
-      <title>Mi primer repositorio de prueba</title>
+      <title>Un ejemplo de reposiorio git</title>
    </head>
    <body lang="es">
    </body>
