@@ -6,6 +6,7 @@
       <title>Un ejemplo de reposiorio git</title>
    </head>
    <body lang="es">
+   <h1>Bienvenido</h1>
      <form>
 	    <input type="text" name="nombre"></input>
 		<input type="date" name ="fechanac">
