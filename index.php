@@ -8,6 +8,7 @@
    <body lang="es">
      <form>
 	    <input type="text" name="nombre"></input>
+		<input type="date" name ="fechanac">
 		<button name="Enviar">Enviar datos</button>
 	 </form>
    </body>
